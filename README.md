@@ -5,7 +5,7 @@ Repositório para a prova de Prática de Gestão de Projetos.
 # Ramos
 O ramo main não foi utilizado. Ele poderia ser usado para fazer a home ou caso fosse necessário o uso de merges.
 
-Para melhorar a organização, o site foi feito num ramo separado chamado RamoSite.
+Para melhorar a organização, a home foi feita num ramo separado chamado RamoSite.
 O site pode ser acessado pelo link abaixo da descrição ou pelo seguinte link: https://lallindo.github.io/Prova1Tiago/
 
 O ramo Admin tem tem uma página HTML que seria utilizada para gerenciamento dos sistemas.
