@@ -2,6 +2,8 @@
 
 Repositório para a prova de Prática de Gestão de Projetos.
 
+Simulando um processo seletivo, você precisará fazer um repositório com um site Home, um ramo para o administrador e um site hospedado no gitHub.
+
 # Ramos
 O ramo main não foi utilizado. Ele poderia ser usado para fazer a home ou caso fosse necessário o uso de merges.
 
